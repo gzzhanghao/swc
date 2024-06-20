@@ -1,2 +1,2 @@
-import styles from "./src/MyModule.scss";
+import styles from "./src/MyModule.test.scss";
 console.log(styles);
